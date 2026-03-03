@@ -70,7 +70,7 @@
           "description": "",
           "id": 6,
           "links": [],
-          "title": "Airlines log spikes",
+          "title": "Airlines log spikes(synced!)",
           "vizConfig": {
             "group": "timeseries",
             "kind": "VizConfig",
